@@ -103,7 +103,7 @@ import os
 # print("a+b =", a+b)
 # print("a-b =", a-b)
 # print("a*b =", a*b)
-# # print("a percentile b =", a % b)
+# print("a percentile b =", a % b)
 
 # s = "danny .!!!!!!! ,!!!!! "
 #
