@@ -1,21 +1,21 @@
-# #Program about if else using Strings
-# a = input("Enter a name") # koi bhi name enter kerna ha
-#
-# if a.__contains__("a"):
-#     print("name contains a")
-# elif a.__contains__("b"):
-#     print("name contains b")
-# else:
-#      print("i dont know")
-#
-#
-# #check kere Kashan print kerde kashan found
-# #check kere Mujtaba print kerde mujtaba found
-# #kuch bhi nahi ha print i dont know
-#
-# #My name is kashan asim
-# #My name is mujtaba asim
-# #My name is mujtaba asim and my brother's name is Is kashan asim
+#Program about if else using Strings
+a = input("Enter a name") # koi bhi name enter kerna ha
+
+if a.__contains__("a"):
+    print("name contains a")
+elif a.__contains__("b"):
+    print("name contains b")
+else:
+     print("i dont know")
+
+
+#check kere Kashan print kerde kashan found
+#check kere Mujtaba print kerde mujtaba found
+#kuch bhi nahi ha print i dont know
+
+#My name is kashan asim
+#My name is mujtaba asim
+#My name is mujtaba asim and my brother's name is Is kashan asim
 #
 # o = input("Enter a name")
 # if o. __contains__("kashan"):
@@ -74,32 +74,32 @@
 # print(z.upper())
 # print(z)
 # print(z.upper())
-import os
+# import os
 
 # print("enter a name ")
 # m = input()
 # print(m)
 #
-# a = int(input("Enter the value of a = "))
-# b = int(input("Enter the value of b = "))
-#
-# print("which function you want to run")
-# w = input()
-#
-# if w.__contains__("+"):
-#     print("a+b =", a+b)
-#
-# elif w.__contains__("-"):
-#     print("a-b =", a-b)
-#
-# elif w.__contains__("*"):
-#     print("a*b =", a*b)
-#
-# elif w.__contains__("/"):
-#     print("a/b =", a/b)
-#
-# else:
-#     print("nothing")
+a = int(input("Enter the value of a = "))
+b = int(input("Enter the value of b = "))
+
+print("which function you want to run")
+w = input()
+
+if w.__contains__("+"):
+    print("a+b =", a+b)
+
+elif w.__contains__("-"):
+    print("a-b =", a-b)
+
+elif w.__contains__("*"):
+    print("a*b =", a*b)
+
+elif w.__contains__("/"):
+    print("a/b =", a/b)
+
+else:
+    print("nothing")
 # print("a+b =", a+b)
 # print("a-b =", a-b)
 # print("a*b =", a*b)

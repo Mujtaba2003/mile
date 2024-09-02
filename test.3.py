@@ -13,8 +13,8 @@
 for i in range(50 + 1):
     if i == 0:
         print(i, "neither")
-    elif i & 2 == 0:
+    elif i % 2 == 0:
         print(i, "even")
     else:
         print(i, "odd")
-        
+
