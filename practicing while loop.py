@@ -86,5 +86,5 @@ def average(*numbers):
     return sum / len(numbers)
 
 
-s=average(88, 208, 77)
+s = average(88, 208, 77)
 print(s)
